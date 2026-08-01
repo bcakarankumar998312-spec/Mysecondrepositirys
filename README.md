@@ -1,2 +1,2 @@
-# Mysecondrepositirys
+# Mysecondrepositiry
 author- karan kumar
